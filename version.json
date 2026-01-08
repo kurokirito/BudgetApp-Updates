@@ -1,7 +1,7 @@
 {
-  "latestVersion": "1.0.34",
-  "releaseNotes": "Fix Opérations Récurrentes.",
-  "windowsUrl": "https://github.com/kurokirito/BudgetApp-Updates/releases/download/v1.0.34/BudgetApp_Setup.exe",
-  "androidUrl": "https://github.com/kurokirito/BudgetApp-Updates/releases/download/v1.0.34/com.companyname.budgetapp-Signed.apk",
+  "latestVersion": "1.0.35",
+  "releaseNotes": "Fix Turso token + Security audit + Operation filter.",
+  "windowsUrl": "https://github.com/kurokirito/BudgetApp-Updates/releases/download/v1.0.35/BudgetApp_Setup.exe",
+  "androidUrl": "https://github.com/kurokirito/BudgetApp-Updates/releases/download/v1.0.35/com.companyname.budgetapp-Signed.apk",
   "forceUpdate": false
 }
